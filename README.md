@@ -37,7 +37,7 @@ This system is intended for web and mobile applications, allowing users to **reg
 Clone the backend repository to your local machine:
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/Sajidcodecrack/FlutterLogin.git)
 cd backend
 ```
 
@@ -102,7 +102,7 @@ Use **Postman** to test the following endpoints:
 Clone the Flutter project to your local machine:
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/Sajidcodecrack/FlutterLogin.git)
 cd frontend
 ```
 
